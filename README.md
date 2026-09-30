@@ -1,3 +1,15 @@
+# 💫 Hi 👋, I'm Owner of AVEROXA,
+**A passionate Cloud Engineer AND Developer**
+
+Email Me 👉 ✉️ **contact.averoxa@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** MY Website and Various Projects
+- 🌱 **I’m currently learning:** Web Developing
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** contact.averoxa@gmail.com
+- 😄 **Pronouns:** AVEROXA 
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/averoxatech) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/averoxa-technologies) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AVEROXATECHNOLOGIES) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact.averoxa@gmail.com) 
